@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+matplotlib
+scipy
+networkx
+plotly
+openpyxl
+kaleido
+playwright
+
+scikit-learn
+joblib
